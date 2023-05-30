@@ -1,4 +1,5 @@
 # curriculum-databases-projects-template
+> the tempalate was used to create the repo but it has made it more complicated.
 
 > This template should be used for database related projects at Microverse.
 > Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
